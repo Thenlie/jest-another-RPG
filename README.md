@@ -1,6 +1,4 @@
- # Jest Another RPG
-
-  ![Project License Badge](https://img.shields.io/badge/license-MIT-brightgreen)
+  # Jest Another RPG  ![Project License Badge](https://img.shields.io/badge/license-MIT-brightgreen)
 
   ## Description
 
